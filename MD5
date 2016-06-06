@@ -1,0 +1,12 @@
+5bba39cfa274a7417c19712beacdade4 *DESCRIPTION
+a2328913279b01a790f103411ca44a13 *LICENSE
+69a83ec0309fae4a620e61553408f644 *NAMESPACE
+c99fded45afc6337d8987c887cc717c4 *NEWS.md
+2935a3815fb2ba5fd782d4899fda0623 *R/shinytoastr.R
+523ee86497b8ca3546071f81c2101fd3 *README.md
+79561b14124cd838c31c424414268369 *inst/shinytoastr.png
+1a016bd693022dc790875b94effe7108 *inst/toastr/shinytoastr.js
+c4d50504a82305d607ae5ff7b33e0c39 *inst/toastr/toastr.min.css
+d59436971aa13b0e0c24d4332543fbef *inst/toastr/toastr.min.js
+be0e49f5b76685ccedb287e0f91b65af *man/toastr_success.Rd
+a553b7abdd64748f9d54b215c372ab99 *man/useToastr.Rd
